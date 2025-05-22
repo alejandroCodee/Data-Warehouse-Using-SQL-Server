@@ -1,4 +1,4 @@
-# 📦 Data Warehouse Project Using SQL Server
+# Data Warehouse Project Using SQL Server
 
 This project implements a **modern Data Warehouse architecture** that consolidates sales, customer, and product data from CRM and ERP systems using the Medallion Architecture **Bronze, Silver, and Gold layer pattern**.
 
